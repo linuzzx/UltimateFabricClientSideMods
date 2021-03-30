@@ -75,16 +75,16 @@ Cheaty:
 [Autofish-0.9.2-fabric-mc1.16.4.jar](https://www.curseforge.com/minecraft/mc-mods/autofish)  
 
 Recommended Configs:
-These go into .minecraft: [Configs_minecraft.zip](https://github.com/GalaxyLinus/UltimateFabricClientSideMods/files/6228960/Configs_minecraft.zip)
-These go into .minecraft/config: [Configs_config.zip](https://github.com/GalaxyLinus/UltimateFabricClientSideMods/files/6228970/Configs_config.zip)
+These go into .minecraft: [Configs_minecraft.zip](https://github.com/GalaxyLinus/UltimateFabricClientSideMods/files/6228960/Configs_minecraft.zip)  
+These go into .minecraft/config: [Configs_config.zip](https://github.com/GalaxyLinus/UltimateFabricClientSideMods/files/6228970/Configs_config.zip)  
 
 Recommended Ressource Packs:
-My vanillatweaks (all credits go to vanillatweaks.net) [VanillaTweaks.zip](https://github.com/GalaxyLinus/UltimateFabricClientSideMods/files/6229000/VanillaTweaks.zip)
-Redstone Improvements (edited, orgininal by https://www.planetminecraft.com/texture-pack/little-improvements-redstone/) [redstonepack.zip](https://github.com/GalaxyLinus/UltimateFabricClientSideMods/files/6229007/redstonepack.zip)
-[Better Enchantment Names (Color Coded)](https://www.planetminecraft.com/texture-pack/color-coded-better-enchantment-names/)
+My vanillatweaks (all credits go to vanillatweaks.net) [VanillaTweaks.zip](https://github.com/GalaxyLinus/UltimateFabricClientSideMods/files/6229000/VanillaTweaks.zip)  
+Redstone Improvements (edited, orgininal by https://www.planetminecraft.com/texture-pack/little-improvements-redstone/) [redstonepack.zip](https://github.com/GalaxyLinus/UltimateFabricClientSideMods/files/6229007/redstonepack.zip)  
+[Better Enchantment Names (Color Coded)](https://www.planetminecraft.com/texture-pack/color-coded-better-enchantment-names/)  
 
 German only:
-Better Language (englishifys some mob/item names like Lore > Minecart, Schreiter > Strider, ...) [Customlang.zip](https://github.com/GalaxyLinus/UltimateFabricClientSideMods/files/6229015/Customlang.zip)
+Better Language (englishifys some mob/item names like Lore > Minecart, Schreiter > Strider, ...) [Customlang.zip](https://github.com/GalaxyLinus/UltimateFabricClientSideMods/files/6229015/Customlang.zip)  
 
 
 Ultimate Client Mod List by GalaxyLinus is licensed under CC BY-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/
