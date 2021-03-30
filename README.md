@@ -1,5 +1,5 @@
 # UltimateFabricClientSideMods
-A list of all mods I use in Single Player and Multiplayer for 1.16.4
+A list of all mods, ressource packs and configs I use in Single Player and Multiplayer for 1.16.4
 
 Info: This contains Mods like WorldEdit, that don't work on Servers, but don't break anything if you use them on servers. They are still included beacuse they are useful in Singleplayer. bdw if you get banned on a server for using any of these, it's your fault :/
 
@@ -79,6 +79,12 @@ These go into .minecraft: [Configs_minecraft.zip](https://github.com/GalaxyLinus
 These go into .minecraft/config: [Configs_config.zip](https://github.com/GalaxyLinus/UltimateFabricClientSideMods/files/6228970/Configs_config.zip)
 
 Recommended Ressource Packs:
-My vanillatweaks from
+My vanillatweaks (all credits go to vanillatweaks.net) [VanillaTweaks.zip](https://github.com/GalaxyLinus/UltimateFabricClientSideMods/files/6229000/VanillaTweaks.zip)
+Redstone Improvements (edited, orgininal by https://www.planetminecraft.com/texture-pack/little-improvements-redstone/) [redstonepack.zip](https://github.com/GalaxyLinus/UltimateFabricClientSideMods/files/6229007/redstonepack.zip)
+[Better Enchantment Names (Color Coded)](https://www.planetminecraft.com/texture-pack/color-coded-better-enchantment-names/)
+
+German only:
+Better Language (englishifys some mob/item names like Lore > Minecart, Schreiter > Strider, ...) [Customlang.zip](https://github.com/GalaxyLinus/UltimateFabricClientSideMods/files/6229015/Customlang.zip)
+
 
 Ultimate Client Mod List by GalaxyLinus is licensed under CC BY-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/
