@@ -74,4 +74,11 @@ Cheaty:
 [auto-clicker-fabric-1.0.0.jar](https://www.curseforge.com/minecraft/mc-mods/auto-clicker-fabric)  
 [Autofish-0.9.2-fabric-mc1.16.4.jar](https://www.curseforge.com/minecraft/mc-mods/autofish)  
 
+Recommended Configs:
+These go into .minecraft: [Configs_minecraft.zip](https://github.com/GalaxyLinus/UltimateFabricClientSideMods/files/6228960/Configs_minecraft.zip)
+These go into .minecraft/config: [Configs_config.zip](https://github.com/GalaxyLinus/UltimateFabricClientSideMods/files/6228970/Configs_config.zip)
+
+Recommended Ressource Packs:
+My vanillatweaks from
+
 Ultimate Client Mod List by GalaxyLinus is licensed under CC BY-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/
