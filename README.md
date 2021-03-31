@@ -1,5 +1,5 @@
 # UltimateFabricClientSideMods + Ressource Packs & co.
-A list of all mods, ressource packs and configs I use in Single Player and Multiplayer for 1.16.4
+A list of all mods, ressource packs and configs I use in Single Player and Multiplayer for 1.16.4 (most should work for .5 too!)
 
 Info: This contains Mods like WorldEdit, that don't work on Servers, but don't break anything if you use them on servers. They are still included beacuse they are useful in Singleplayer. bdw if you get banned on a server for using any of these, it's your fault :/
 
