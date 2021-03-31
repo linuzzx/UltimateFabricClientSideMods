@@ -78,7 +78,7 @@ Cheaty:
 [Cornos-1.5.5.jar](https://github.com/AriliusClient/Cornos)  
 [lwat-1.0.0.jar](https://github.com/AriliusClient/LoginWithSessionToken)  
 [baritone-standalone-fabric-1.6.3.jar](https://www.curseforge.com/minecraft/mc-mods/baritone)  
-[AntiAntiXray-1.8.jar](https://github.com/AriliusClient/AntiAntiXray) 
+[AntiAntiXray-1.8.jar](https://github.com/AriliusClient/AntiAntiXray)  
 [auto-clicker-fabric-1.0.0.jar](https://www.curseforge.com/minecraft/mc-mods/auto-clicker-fabric)  
 [Autofish-0.9.2-fabric-mc1.16.4.jar](https://www.curseforge.com/minecraft/mc-mods/autofish)  
 
