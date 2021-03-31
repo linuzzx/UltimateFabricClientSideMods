@@ -3,6 +3,14 @@ A list of all mods, ressource packs and configs I use in Single Player and Multi
 
 Info: This contains Mods like WorldEdit, that don't work on Servers, but don't break anything if you use them on servers. They are still included beacuse they are useful in Singleplayer. bdw if you get banned on a server for using any of these, it's your fault :/
 
+You'll need Fabric for these mods! [Download here](https://fabricmc.net/use/)  
+Download .EXE for Windows Users, Download .JAR for other OSes (You need to have [jre8](https://www.oracle.com/java/technologies/javase-jre8-downloads.html) for .JAR installers installed)
+
+Step to Step:
+1. Open your installer
+2. Choose 1.16.4
+3. Click Install
+
 Mods:  
 [accurate-block-placement-1.0.9.jar](https://www.curseforge.com/minecraft/mc-mods/accurate-block-placement)  
 [advanced-nbt-tooltip-1.4.0+build.3-1.16.5.jar](https://www.curseforge.com/minecraft/mc-mods/advanced-nbt-tooltips)  
