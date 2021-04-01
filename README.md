@@ -73,6 +73,10 @@ Mods:
 [ublowfire-1.16-1.0.1.jar](https://github.com/UltimateBoomer)  
 [worldedit-mod-7.2.4.jar](https://www.curseforge.com/minecraft/mc-mods/worldedit)  
 [slight-gui-modifications.jar](https://www.curseforge.com/minecraft/mc-mods/slight-gui-modifications)  
+[cleanview](https://www.curseforge.com/minecraft/mc-mods/cleanview-fabric)  
+
+Not useful for everyone:
+[Packet Logger](https://www.curseforge.com/minecraft/mc-mods/packet-logger)  
 
 Cheaty:  
 [Inertia Client 3.1.3 - 1.16.5.jar](https://inertiaclient.com)  
