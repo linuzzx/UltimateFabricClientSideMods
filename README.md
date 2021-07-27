@@ -78,11 +78,7 @@ Not useful for everyone:
 [grabcraft-litematic-1.16.4-fabric0.25.1-0.4.jar](https://modrinth.com/mod/grabcraft-litematic/versions)  # Breaks Realms!  
   
 Cheaty:  
-[Inertia Client 3.1.3 - 1.16.5.jar](https://inertiaclient.com)  
-[Cornos-1.5.5.jar](https://github.com/AriliusClient/Cornos)  
-[lwat-1.0.0.jar](https://github.com/AriliusClient/LoginWithSessionToken)  
 [baritone-standalone-fabric-1.6.3.jar](https://www.curseforge.com/minecraft/mc-mods/baritone)  
-[AntiAntiXray-1.8.jar](https://github.com/AriliusClient/AntiAntiXray)  
 [auto-clicker-fabric-1.0.0.jar](https://www.curseforge.com/minecraft/mc-mods/auto-clicker-fabric)  
 [Autofish-0.9.2-fabric-mc1.16.4.jar](https://www.curseforge.com/minecraft/mc-mods/autofish)  
 
